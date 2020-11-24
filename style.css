@@ -1,0 +1,15 @@
+.leftimage{
+    float: left;
+    margin-right: 10px;
+}
+.rightimage{
+    margin-bottom: 20px;
+}
+.titles{
+    color: hsl(120, 50%, 96%) !important;
+    background-color:  rgb(47, 255, 210) !important;
+    padding: 5px;
+}
+h2{
+    color: rgb(47, 255, 210) !important;
+}
